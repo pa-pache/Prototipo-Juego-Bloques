@@ -73,7 +73,7 @@ Sólo está disponible para navegador (PC).
 <summary>English version (click to expand).</summary>
 
 <div algin='center'>
-# Blocks Game Prototype
+Blocks Game Prototype
 </div>
 
 Copyright © 2026 Pacheco Pablo Matías. All rights reserved. This code is published solely for portfolio demonstration purposes. Copying, modifying, distributing, or commercial use is not permitted without express authorization.
