@@ -72,7 +72,7 @@ Sólo está disponible para navegador (PC).
 <details>
 <summary>English version (click to expand).</summary>
 
-<div algin='center'>
+<div align='center'>
 Blocks Game Prototype
 </div>
 
