@@ -8,7 +8,9 @@
 ![GEMINI](https://img.shields.io/badge/GOOGLE_GEMINI-GEMINI?style=for-the-badge&logo=google%20gemini&logoColor=white&color=505050)
 ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&logoColor=white&color=3198c4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablo-mat%25C3%25ADas-pacheco-42b19243b%2F)
 
+<div algin='center'>
 # Prototipo Juego de Bloques
+</div>
 
 > [!NOTE]
 > Copyright © 2026 Pacheco Pablo Matías. Todos los derechos reservados. Este código se publica únicamente con fines de demostración para portafolio. No está permitida su copia, modificación, distribución ni uso comercial sin autorización expresa.
@@ -69,7 +71,9 @@ Sólo está disponible para navegador (PC).
 <details>
 <summary>English version (click to expand).</summary>
 
+<div algin='center'>
 # Blocks Game Prototype
+</div>
 
 Copyright © 2026 Pacheco Pablo Matías. All rights reserved. This code is published solely for portfolio demonstration purposes. Copying, modifying, distributing, or commercial use is not permitted without express authorization.
 
