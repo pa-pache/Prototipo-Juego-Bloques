@@ -1,3 +1,5 @@
+<div align='center'>
+    <h1>Prototipo Juego de Bloques</h1>
 ![REACT](https://img.shields.io/badge/REACT-JS?style=for-the-badge&logo=react&logoColor=white&color=43b59c)
 ![VITE](https://img.shields.io/badge/VITE-VITE?style=for-the-badge&logo=vite&logoColor=white&color=5729b3)
 ![PIXIJS](https://img.shields.io/badge/PIXIJS-PIXIJS?style=for-the-badge&logo=pixijs&color=cf5d55)
@@ -6,9 +8,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=html5&logoColor=white&color=c4532d)
 ![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css&logoColor=white&color=2979b3)
 ![GEMINI](https://img.shields.io/badge/GOOGLE_GEMINI-GEMINI?style=for-the-badge&logo=google%20gemini&logoColor=white&color=505050)
-
-<div align='center'>
-    <h1>Prototipo Juego de Bloques</h1>
 </div>
 
 > [!NOTE]
