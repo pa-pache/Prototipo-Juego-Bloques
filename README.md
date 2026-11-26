@@ -8,7 +8,7 @@
 ![GEMINI](https://img.shields.io/badge/GOOGLE_GEMINI-GEMINI?style=for-the-badge&logo=google%20gemini&logoColor=white&color=505050)
 
 <div align='center'>
-# Prototipo Juego de Bloques
+    <h1>Prototipo Juego de Bloques</h1>
 </div>
 
 > [!NOTE]
@@ -73,7 +73,7 @@ Sólo está disponible para navegador (PC).
 <summary>English version (click to expand).</summary>
 
 <div align='center'>
-# Blocks Game Prototype
+    <h1>Blocks Game Prototype</h1>
 </div>
 
 Copyright © 2026 Pacheco Pablo Matías. All rights reserved. This code is published solely for portfolio demonstration purposes. Copying, modifying, distributing, or commercial use is not permitted without express authorization.
