@@ -6,7 +6,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=html5&logoColor=white&color=c4532d)
 ![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css&logoColor=white&color=2979b3)
 ![GEMINI](https://img.shields.io/badge/GOOGLE_GEMINI-GEMINI?style=for-the-badge&logo=google%20gemini&logoColor=white&color=505050)
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&logoColor=white&color=3198c4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablo-mat%25C3%25ADas-pacheco-42b19243b%2F)
 
 <div algin='center'>
 # Prototipo Juego de Bloques
@@ -62,9 +61,11 @@ Sólo está disponible para navegador (PC).
 
 ## 📄 Notas
 
+- Este proyecto fue creado con la **ayuda de la IA**.
 - El juego **no tiene ningún tipo de sonido ni banda sonora**. Todo lo que se muestra en este proyecto es una representación de las mecánicas implementadas.
 - Está en **español**.
 - Toda la configuración que apliques en el juego queda guardado en el navegador. Si borras dichos datos o lo juegas en otro navegador o computadora, no tendrás esos ajustes.
+- Hecho por Pacheco Pablo Matías.
 
 ---
 
@@ -126,7 +127,9 @@ It is only available for browser (PC).
 
 ## 📄 Notes
 
+- This project was created with the help of AI.
 - The game **has no sound or soundtrack of any kind**. Everything shown in this project is a representation of the implemented mechanics.
 - It is in **Spanish**.
 - All settings you apply in the game are saved in the browser. If you clear that data, or play it in another browser or computer, you won't have those settings.
+- Made by Pacheco Pablo Matías.
 </details>
